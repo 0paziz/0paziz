@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, it's Abdiaziz.</h1>
-<h3 align="center">A Full Stack web developer.</h3>
+<h3 align="center">A Full Stack Web Developer.</h3>
 
 - 🔭 I’m currently working on [Simon game](https://0paziz.github.io/Simon-game/)
 

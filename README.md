@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **API, react**
 
-- 📫 How to reach me **aziz@gmail.com**
+- 📫 How to reach me **ojaziz88@gmail.com**
 
 - ⚡ Fun fact **am programmer i do all the code 😎**
 

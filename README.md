@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, it's Abdiaziz.</h1>
 <h3 align="center">A Front-End web developer.</h3>
 
-- 🔭 I’m currently working on [Rock-paper-Scissor](https://0paziz.github.io/Rock-paper-Scissor/)
+- 🔭 I’m currently working on [Job-listing-filtering](https://github.com/0paziz/job-filter)
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on [Bishargroceryshop](https://bishargroceryshop.netlify.app/)
+- 👯 I’m looking to collaborate on [BankLanding-page](https://github.com/0paziz/Bank-landing-page)
 
 - 👨‍💻 All of my projects are available at [https://github.com/0paziz](https://github.com/0paziz)
 

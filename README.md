@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [BankLanding-page](https://github.com/0paziz/Bank-landing-page)
 
-- 👨‍💻 All of my projects are available at [abdiaziz-portfolio](c)
+- 👨‍💻 All of my projects are available at [abdiaziz-portfolio](https://abdiaziz-portfolio.netlify.app/)
 
 - 📫 How to reach me **azizoj88@gmail.com**
 

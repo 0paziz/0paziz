@@ -1,5 +1,5 @@
-<h3 align="left">About Me</h3>
-<p align="left">Hey 👋! My name is Abdiaziz and I'm a frontend developer, from Somalia</p>
+<h3 align="left">Hey👋!</h3>
+<p align="left">I’m Aziz, a frontend developer from Somalia 🇸🇴, currently studying at university. I love building things for the web—whether it’s sleek UI designs or fun little side projects that make people smile 🎈. Coding is not just what I do, it’s what I enjoy 😋. Always learning, always creating, always leveling up!/p>
 
 
 <h3 align="left">Connect with Me</h3>

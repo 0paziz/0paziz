@@ -1,5 +1,5 @@
 <h3 align="left">Hey👋!</h3>
-<p align="left">I’m Abdiaziz, a frontend developer from Somalia, currently studying at university. Coding is not just what I do, it’s what I enjoy 😋 Always learning, creating and leveling up! </p>
+<p align="left">I’m Abdiaziz, a frontend developer from Somalia, currently student at university. Coding is not just what I do, it’s what I enjoy 😋 Always learning, creating and leveling up! </p>
 
 
 <h3 align="left">Connect with Me</h3>

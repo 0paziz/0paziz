@@ -1,5 +1,5 @@
 <h3 align="left">Hey👋!</h3>
-<p align="left">I’m Abdiaziz, a frontend developer from Somalia, currently student at ISBAT university. Coding is not just what I do, it’s what I enjoy 😋 Always learning, creating and leveling up! </p>
+<p align="left">I specialize in frontend development using JavaScript, React, and Node.js. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries. </p>
 
 
 <h3 align="left">Connect with Me</h3>

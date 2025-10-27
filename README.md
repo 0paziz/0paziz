@@ -1,5 +1,5 @@
 <h3 align="left">Hey👋!</h3>
-<p align="left">I specialize in frontend development using JavaScript, React, and Node.js. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries. </p>
+<p align="left">I specialize in full stack development using MERN stack. My passion for learning and research drives me to constantly push the boundaries of knowledge and seek out new discoveries. </p>
 
 
 <h3 align="left">Connect with Me</h3>
